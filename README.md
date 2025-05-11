@@ -1,11 +1,11 @@
 Train Delay Prediction _Classification 
 
 
-OVERVIEW
+## OVERVIEW
 
 This project analyze and Predict whether a train is delayed or ontime.Machine learning techniques are used for this Prediction.Predicting whether a train journey will be "On Time" or "Delayed" can help railway operators manage resources more effectively and improve passenger satisfaction.
 
-USED TECHNIQUES 
+## USED TECHNIQUES 
 
 Python
  
@@ -18,7 +18,7 @@ Matplotlib, Seaborn (Data Visualization)
 Scikit-Learn (Machine Learning)
 
 
-Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 The project begins with data exploration, which includes:
 
 Handling missing values and outliers
@@ -26,7 +26,7 @@ Handling missing values and outliers
 Visualizing feature distributions
 
 
-MACHINE LEARNING MODELS 
+## MACHINE LEARNING MODELS 
 
 
 The following classification machine learning models were implemented and evaluated:
@@ -42,17 +42,17 @@ Support Vector Machine
 k-Nearest Neighbor
 
 
-Performance Metrics Evaluated:
+## Performance Metrics Evaluated:
 
 Confusion Matrix
 
 Classification Report
 
-Key Findings 
+## Key Findings 
 
 By predicting unseen data to the  model we can see a  accurate result according to  the actual data points.
 
-Conclusion 
+## Conclusion 
 
 This project focus on the behaviour of trains using different  correlated features. 
 This project will demonstrate the power of Machine learning models.# PROJECT_DSML
